@@ -1,0 +1,23 @@
+{
+  "name": "super-secret-project",
+  "version": "1.0.0",
+  "description": "Random Timer Project Because Robin Is Weird",
+  "homepage": "https://github.com/RobinSquared/super-secret-project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "github:RobinSquared/super-secret-project",
+  "author": "Robin Squared",
+  "email": "robin.painter@robinsquared.live",
+  "url": "https://robinsquared.bio",
+  "funding": {
+    "type": "kofi",
+    "url": "https://ko-fi.com/robinsquared2"
+  },
+  "license": "GPL-3.0",
+  "dependencies": {
+    "discord.js": "^14.26.4",
+    "express": "^5.2.1"
+  }
+}
